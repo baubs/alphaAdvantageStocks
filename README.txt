@@ -1,6 +1,6 @@
 Brandon Aubrey
 
-Made for Python 37
+Made for Python 3.7
 
 Simple project in progress using python to call Alpha Advantage's
 API to pull current stock information. Saves this information to
